@@ -1,0 +1,217 @@
+p {
+  color: rgb(29, 31, 30);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 30px;
+  margin: 10px;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(195, 248, 248);
+}
+
+.bd1 {
+  height: 210px;
+  width: 360px;
+  background-color: green;
+  margin: 20px auto;
+  overflow: hidden;
+  outline: 0.3px solid black;
+}
+
+.bd2 {
+  height: 150px;
+  width: 150px;
+  background-color: red;
+  border-radius: 50%;
+  margin-top: 27px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.germany {
+  height: 70px;
+  width: 360px;
+  background-color: red;
+  margin: 20px auto;
+  border-top: 70px solid black;
+  border-bottom: 70px solid rgba(255, 255, 24, 0.938);
+  outline: 0.3px solid black;
+}
+
+.argentina {
+  height: 70px;
+  width: 360px;
+  background-color: whitesmoke;
+  margin: 20px auto;
+  border-top: 70px solid skyblue;
+  border-bottom: 70px solid skyblue;
+  text-align: center;
+  overflow: hidden;
+  outline: 0.3px solid black;
+}
+
+.argentina img {
+  width: 93px;
+}
+
+.canada {
+  height: 210px;
+  width: 160px;
+  margin: 20px auto;
+  background-color: white;
+  border-left: 100px solid rgb(202, 7, 50);
+  border-right: 100px solid rgb(202, 7, 50);
+  text-align: center;
+  outline: 0.3px solid black;
+}
+
+.canada img {
+  width: 160px;
+  margin-top: 22px;
+}
+
+.italy {
+  height: 210px;
+  width: 120px;
+  margin: 20px auto;
+  background-color: white;
+  border-left: 120px solid green;
+  border-right: 120px solid red;
+  outline: 0.3px solid black;
+}
+
+.india {
+  height: 70px;
+  width: 360px;
+  background-color: whitesmoke;
+  margin: 20px auto;
+  border-top: 70px solid rgb(226, 92, 44);
+  border-bottom: 70px solid rgb(61, 175, 33);
+  text-align: center;
+  overflow: hidden;
+  outline: 0.3px solid black;
+}
+
+.india img {
+  width: 72px;
+}
+
+.pakistan {
+  height: 210px;
+  width: 250px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-left: 110px solid whitesmoke;
+  background-color: darkgreen;
+  outline: 0.3px solid black;
+}
+
+.pakistan img {
+  width: 250px;
+  height: 210px;
+}
+
+.japan {
+  height: 210px;
+  width: 360px;
+  background-color: whitesmoke;
+  margin: 20px auto;
+  overflow: hidden;
+  outline: 0.3px solid black;
+}
+
+.thai {
+  height: 210px;
+  width: 360px;
+  margin: 20px auto;
+  background-color: maroon;
+  overflow: hidden;
+  outline: 0.3px solid black;
+}
+
+.thaimid {
+  height: 50px;
+  width: 360px;
+  background-color: midnightblue;
+  margin: 57px auto;
+  border-top: 25px solid white;
+  border-bottom: 25px solid white;
+}
+
+.singapore {
+  height: 105px;
+  width: 360px;
+  margin: 20px auto;
+  background-color: rgb(238, 37, 54);
+  border-bottom: 105px solid whitesmoke;
+  outline: 0.3px solid black;
+  text-align: left;
+}
+
+.singapore img {
+  height: 105px;
+}
+
+.aus {
+  height: 70px;
+  width: 360px;
+  margin: 20px auto;
+  background-color: white;
+  border-top: 70px solid rgb(239 51 64);
+  border-bottom: 70px solid rgb(239 51 64);
+  outline: 0.3px solid black;
+}
+
+.col {
+  height: 52.5px;
+  width: 360px;
+  margin: 20px auto;
+  background-color: rgb(0, 48, 135);
+  border-top: 105px solid rgb(255, 205, 0);
+  border-bottom: 52.5px solid rgb(200, 16, 46);
+  outline: 0.5px solid black;
+}
+
+.ghana {
+  height: 70px;
+  width: 360px;
+  margin: 20px auto;
+  background-color: yellow;
+  border-top: 70px solid rgb(239, 51, 64);
+  border-bottom: 70px solid rgb(1, 112, 44);
+  text-align: center;
+  overflow: hidden;
+  outline: 0.5px solid black;
+}
+
+.ghana img {
+  height: 70px;
+}
+
+.mexico {
+  height: 210px;
+  width: 120px;
+  margin: 20px auto;
+  background-color: white;
+  border-left: 120px solid green;
+  border-right: 120px solid red;
+  outline: 0.5px solid black;
+  overflow: hidden;
+}
+
+.mexico img {
+  width: 130px;
+  margin-top: 65px;
+}
+
+.estonia {
+  height: 70px;
+  width: 360px;
+  margin: 20px auto;
+  background-color: black;
+  border-top: 70px solid steelblue;
+  border-bottom: 70px solid whitesmoke;
+  outline: 0.3px solid black;
+}
